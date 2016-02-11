@@ -1,0 +1,49 @@
+   
+
+IN TRODUOTION . lix
+
+” ε” Keeping these considerations in mind, I now go on to give a brief
+’. ’ sketch of the various metros used in Terence,
+
+Taking the paroxytone dissyllable a· the basis of metrical measure, we
+, may arrange the various‘measures as follows, using for simplieity the
+
+’,- ordinary notation.
+
+a. Trochaic. Ι :L u - υ
+β. Iambie. υ , -’ υ -
+γ. Cretie. -ν υ -
+δ. Antispastic. υ Δ. Δ, υ
+ε.” Bacchiae. u -ν .-
+
+In addition to these we have once used in Terence a mixed measure
+² called choriambic (-Ι u u -t).
+Trochaie and iambie verses are to be measured by dz'lyodiae, or metrae,
+> ' each consisting of a double foot: the primary rule (in verses where the
+, quantity of syllables is distinctly marked, a· in Greek) being that in a
+Ἴ 5 trochaie line the first, third, fifth, and seventh feet must be trochees3 in
+χ an iambie line the second, fourth, sixth, and eighth must be iambie.
+ζ Δ Cretic and bacchiae measures are often referred to the paeonio mea-
+] · sures3 but it is clear that a cretio is a trochaic metro deficient by one
+. 'syllable The bacchiac is merely an improvement -on the amphibraeh
+’- (υ ,- υ), by increasing the weight of the final syllable.
+
+I. Tnocnuc anns.
+
+Ι. ΤΒοοΗΑῐο 'rerinl-,arms CATAan'rxo, called by the Romans Quad-
+
+ratus or septenarius. This verse consiste of four trochaie metres, of
+’ which the last is deficient by one syllable.
+
+'l'he following lines are a good example of this kind of verse:
+‘⁶ Di boni bolni quid porto Ι Sed ubi inveniam Ι Pamphilum,
+Ut metum in quo Ι nfine est adimam athue expleam animum Ι
+gaudio Ρ
+Laetus est ne Ι scio quid. Nihil est: Ι nondum haee resci Ι vit mala.'’
+(And. ii. 2, 1-3.)
+‘⁸ Nunquam ita quisquam Ι bene subducta Ι mitione ad vit Ι tim fuit
+Quin res, aetas, Ι fisus semper [aliquid apport Ι et novi;
+Aliquid moneat, Ι fit illa quae te Ι scire credas Ι nescias3
+Et quae tibi putlaris prima in Ι experiendo ut Ι repudies.’'
+(Adelph. v. 4. 1—4.)
+
